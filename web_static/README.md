@@ -8,7 +8,7 @@
 > relevant to the finished product. The highlest numbered index.html file is
 > likewise the most relevant to the finished product.
 
-![M](https://i.imgur.com/ujItUkN.png)
+![M](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/f54486a431a05ea3477e337e0e953686d3c6ffd0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230316T173311Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5cfc348abb616238e2f30deb9110efdc02c77abb25327cf5689f15e646dbfbf7)
 
 ### Environment
 * Languages: HTML, CSS
